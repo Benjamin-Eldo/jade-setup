@@ -26,7 +26,7 @@ If everything work as expected, the output should look like :
 
 To stop the container, you shouldn't use Ctrl+C on terminal but instead use File > Shutdown Agent Platform on the GUI. 
 
-![Screenshot of the GUI](ressource\quit_window.png)
+![Screenshot of the GUI](ressource/quit_window.png)
 
 Otherwise, you'll encounter the following error : 
 ```
